@@ -1,0 +1,12 @@
+[submodule "Actualite"]
+	path = Actualite
+	url = https://github.com/AdMeg/Actualite.git
+[submodule "Annuaire"]
+	path = Annuaire
+	url = https://github.com/AdMeg/Annuaire.git
+[submodule "Authentification"]
+	path = Authentification
+	url = https://github.com/AdMeg/Authentification.git
+[submodule "Catalogue"]
+	path = Catalogue
+	url = https://github.com/AdMeg/Catalogue.git
