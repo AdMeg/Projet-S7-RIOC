@@ -10,3 +10,6 @@
 [submodule "Catalogue"]
 	path = Catalogue
 	url = https://github.com/AdMeg/Catalogue.git
+[submodule "QCM"]
+	path = QCM
+	url = https://github.com/AdMeg/QCM.git
