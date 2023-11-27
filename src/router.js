@@ -1,10 +1,11 @@
 // import Vue from 'vue';
 // import Router from 'vue-router';
 import ViewHome from './views/ViewHome.vue';
-import ViewProfile from './views/ViewProfile.vue';
-import ViewMessages from './views/ViewMessages.vue';
-import ViewSettings from './views/ViewSettings.vue';
-import ViewHelp from './views/ViewHelp.vue';
+import ViewActualite from './Actualite/ViewActualite.vue';
+import ViewAuthentification from './Authentification/ViewAuthentification.vue';
+import ViewCatalogue from './Catalogue/ViewCatalogue.vue';
+import ViewQCM from './QCM/ViewQCM.vue';
+import ViewAnnuaire from './Annuaire/ViewAnnuaire.vue';
 
 // Vue.use(Router);
 
@@ -15,10 +16,11 @@ const router = createRouter({
   history: createWebHistory(),
   routes: [
     { path: '/', component: ViewHome },
-    { path: '/profile', component: ViewProfile },
-    { path: '/messages', component: ViewMessages },
-    { path: '/settings', component: ViewSettings },
-    { path: '/help', component: ViewHelp }
+    { path: '/actualite', component: ViewActualite },
+    { path: '/authentification', component: ViewAuthentification },
+    { path: '/catalogue', component: ViewCatalogue },
+    { path: '/qcm', component: ViewQCM },
+    { path: '/annuaire', component: ViewAnnuaire }
   ]
 });
 

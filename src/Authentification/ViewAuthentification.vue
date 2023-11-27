@@ -1,13 +1,13 @@
 <template>
   <div>
-    <h1>help</h1>
+    <h1>Auth</h1>
     <!-- Contenu de l'accueil -->
   </div>
 </template>
 
 <script>
 export default {
-  name: 'ViewHelp'
+  name: 'ViewAuthentification'
   // Options du composant
 }
 </script>
