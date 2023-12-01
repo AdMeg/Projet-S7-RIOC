@@ -1,60 +1,98 @@
 <template>
-  <div class="auth-conatainer">
+
+  <div class="auth-container">
     <img class="logo" src="../assets/etoile-uls.svg" alt="">
-    <h1>Login</h1>
+    
+    <div class="title">
+      <h1>Se connecter</h1>
+    </div>
+    <div class="separator"></div>
     <form action="">
-        <input type="email" placeholder="Email">
-        <input type="password" placeholder="Mot de Passe">
-        <button>Connexion</button>
+
+      <label class="mt-5" for="email">
+        <h5>
+          E-mail
+        </h5>
+      </label>
+      <input type="email" >
+      <label class="mt-2" for="email">
+        <h5>
+          Mot de passe
+        </h5>
+      </label>
+      <input type="password"  >
+      
+      <button  id="submitButton" class="btn btn-danger w-100 mt-3">Connexion</button>
+      
     </form>
   </div>
 </template>
 
 <style scoped>
 
-.auth-conatainer{
+.auth-container{
   display: flex;
+  width:30%;
+  min-width: 450px;
   flex-direction: column;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 5%;
+  margin-top: 10%;
+  border-radius: 20px;
   align-items: center;
+  border: 1px solid black;
+  padding: 5px 0px 50px ;
+  box-shadow: 0px 0px 50px rgba(190,190,190,0.7);
 }
 
+.separator{
+  width:25%;
+  margin-top: 15px;
+  border-bottom: 2px solid red;
+}
+
+form{
+  width:90%
+}
 .logo{
-  width: 100px;
+  width: 150px;
+  margin-top: -70px;
 }
 
 form input{
-  width: 300px;
+  width: 95%;
   height: 40px;
-  padding-left: 20px;
   display: block;
   margin-bottom: 30px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 10px auto 25px;
+  border-radius: 5px;
   border: 1px solid #dc3428;
+  transition:0.3s
+}
+form input:hover{
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.13);
+  transition:0.3s
 }
 
-form button {
-  margin-left: auto;
-  margin-right: auto;
-  width: 300px;
-  height: 40px;
-  border: 1px solid #dc3428;
-  background: #dc3428;
-  color: #fff;
-  cursor: pointer;
+form input:focus{
+  width: 100%;
+  height: 45px;
+  box-shadow: 0px 0px 20px rgba(75, 75, 75, 0.42);
+  transition:0.3s
 }
 
-form button:hover {
-  background: #bd190e;
+
+form button{
+  height:50px;
 }
 
 </style>
 
 <script>
+
 export default {
   name: 'ViewAuthentification'
 }
+
+
 </script>
