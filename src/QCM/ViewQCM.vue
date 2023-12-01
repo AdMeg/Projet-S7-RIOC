@@ -1,5 +1,6 @@
 <template>
-<div class=" main  ">
+  <AppSidebar/>
+<div class=" main container-fluid ">
     <div class="title mt-5">
       <h1>E-learning</h1>
     </div>
@@ -95,9 +96,12 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et qui
 </template>
 
 <script>
+import AppSidebar from '../components/AppSidebar.vue'
 export default {
-  name: 'ViewQCM'
-  // Options du composant
+  name: 'ViewQCM',
+  components: {
+    AppSidebar
+  }
 }
 </script>
 
