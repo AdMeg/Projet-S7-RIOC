@@ -1,6 +1,6 @@
 // import Vue from 'vue';
 // import Router from 'vue-router';
-import ViewHome from './views/ViewHome.vue';
+// import ViewHome from './views/ViewHome.vue';
 import ViewActualite from './Actualite/ViewActualite.vue';
 import ViewAuthentification from './Authentification/ViewAuthentification.vue';
 import ViewCatalogue from './Catalogue/ViewCatalogue.vue';
@@ -15,7 +15,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 const router = createRouter({
   history: createWebHistory(),
   routes: [
-    { path: '/', component: ViewHome },
+    // { path: '/', component: ViewHome },
     { path: '/actualite', component: ViewActualite },
     { path: '/authentification', component: ViewAuthentification },
     { path: '/catalogue', component: ViewCatalogue },

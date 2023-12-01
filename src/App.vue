@@ -16,3 +16,15 @@ export default {
   }
 }
 </script>
+
+
+<style scoped>
+
+html, body {
+  height: 100%;
+}
+
+.container-fluid {
+  overflow: hidden;
+}
+</style>
