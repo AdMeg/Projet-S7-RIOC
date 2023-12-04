@@ -1,6 +1,6 @@
 <template>
   <div v-if="visible" class="splash-screen">
-    <img src="@/assets/homerde.gif" alt="Chargement...">
+    <img src="@/assets/splashScreenULS.gif" alt="Chargement...">
   </div>
 </template>
 
@@ -14,12 +14,16 @@ export default {
   mounted() {
     setTimeout(() => {
       this.visible = false;
-    }, 3000); // Changez 3000 par la durée souhaitée en millisecondes
+    }, 4000); // Changez 4000 par la durée souhaitée en millisecondes
   }
 };
 </script>
 
 <style>
+* {
+  margin: 0;
+  padding: 0;
+}
 .splash-screen {
   position: fixed;
   top: 0;
