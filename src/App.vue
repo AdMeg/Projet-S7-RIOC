@@ -6,15 +6,30 @@
 </template>
 
 <script>
-
 import AppSplashScreen from './components/AppSplashScreen.vue';
+
+import axios from "axios";
 
 export default {
   name: 'App',
   components: {
     AppSplashScreen
-  }
-}
+  },
+  data() {
+    return {
+      answer: {},
+    };
+  },
+  methods: {
+    async getAnswer() {
+      const { data } = await axios.get("https://yesno.wtf/api");
+      this.answer = data;
+    },
+  },
+  beforeMount() {
+    this.getAnswer();
+  },
+};
 </script>
 
 
