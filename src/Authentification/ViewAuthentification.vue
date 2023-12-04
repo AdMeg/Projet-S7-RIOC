@@ -130,11 +130,7 @@ export default {
             });
           } else {
             // Afficher une alerte de succès
-            Swal.fire({
-              icon: 'success',
-              title: 'Connexion réussie',
-              text: 'Vous êtes maintenant connecté!',
-            });
+            this.$router.push({path: '/double-authentification', replace: true})
           }
           this.response = response.data;
           this.error = null;
