@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import AppSplashScreen from './components/AppSplashScreen.vue';
 
+import AppSplashScreen from './components/AppSplashScreen.vue';
 import axios from "axios";
 
 export default {
