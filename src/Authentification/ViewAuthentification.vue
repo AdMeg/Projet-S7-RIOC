@@ -99,6 +99,7 @@ form button {
 
 <script>
 import axios from 'axios';
+import Swal from 'sweetalert2';
 
 export default {
   data() {
@@ -115,15 +116,37 @@ export default {
     postData() {
       // URL de l'API
       const apiUrl = 'http://10.19.2.3:8000/Connexion';
-      console.log(this.formData);
+
       // Effectuer la requête POST
       axios.post(apiUrl, this.formData)
         .then(response => {
-          // Gérer la réponse réussie
+          // Vérifier si la réponse contient le message d'erreur spécifique
+          if (Array.isArray(response.data) && response.data.includes('Login ou mot de passe incorrect')) {
+            // Afficher une alerte d'erreur
+            Swal.fire({
+              icon: 'error',
+              title: 'Erreur d\'authentification',
+              text: 'Login ou mot de passe incorrect.',
+            });
+          } else {
+            // Afficher une alerte de succès
+            Swal.fire({
+              icon: 'success',
+              title: 'Connexion réussie',
+              text: 'Vous êtes maintenant connecté!',
+            });
+          }
           this.response = response.data;
           this.error = null;
         })
         .catch(error => {
+          // Afficher une alerte d'erreur générale en cas d'autres erreurs
+          Swal.fire({
+            icon: 'error',
+            title: 'Erreur',
+            text: error.message || 'Une erreur s\'est produite.',
+          });
+
           // Gérer l'erreur
           this.response = null;
           this.error = error.message || 'Une erreur s\'est produite.';
@@ -131,5 +154,5 @@ export default {
     },
   },
 };
-
 </script>
+
