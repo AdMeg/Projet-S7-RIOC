@@ -5,102 +5,20 @@
       <h1>Actualité</h1>
     </div>
     <div class="content rounded bg-light my-5 p-3 scroll">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
- elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
- elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
- elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
- elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
- elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
- elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
- elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus debitis et quis dolor tempora eum reprehenderit inventore? Omnis, quia asperiores officia id beatae temporibus reprehenderit, excepturi distinctio, dolor blanditiis nihil.
+      <ActuCard/>
+      <ActuCard/>
     </div>
   </div>
 </template>
 
 <script>
 import AppSidebar from '../components/AppSidebar.vue'
+import ActuCard from '../Actualite/ActuCard.vue'
 export default {
   name: 'ViewActualite',
   components: {
-    AppSidebar
+    AppSidebar,
+    ActuCard,
     }
 }
 </script>
