@@ -101,7 +101,7 @@ export default {
   name: 'ViewActualite',
   components: {
     AppSidebar
-  }
+    }
 }
 </script>
 
