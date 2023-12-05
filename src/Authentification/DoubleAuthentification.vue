@@ -12,7 +12,7 @@
                     Code Authentificator:
                 </h5>
             </label>
-            <input type="text" id="code">
+            <input type="text" id="code" v-model="formData.code">
             <button id="submitButton" class="btn btn-danger w-100 mt-3">Connexion</button>
         </form>
         <!-- Affichage de la réponse ou de l'erreur -->
@@ -112,10 +112,11 @@ export default {
             const apiUrl = 'http://10.19.2.3:8000/Code';
 
             // Effectuer la requête POST
+            console.log(this.formData)
             axios.post(apiUrl, this.formData)
                 .then(response => {
                     // Vérifier si la réponse contient le message d'erreur spécifique
-                    if (Array.isArray(response.data) && response.data.includes('Login ou mot de passe incorrect')) {
+                    if (Array.isArray(response.data) && response.data.includes('Connexion échouée')) {
                         // Afficher une alerte d'erreur
                         Swal.fire({
                             icon: 'error',
@@ -123,6 +124,11 @@ export default {
                             text: 'Code incorrect.',
                         });
                     } else {
+                        Swal.fire({
+                            icon: 'success',
+                            title: 'Connexion réussie',
+                            text: 'Vous êtes maintenant connecté!',
+                        });
                         // Afficher une alerte de succès
                         this.$router.push({ path: '/actualite', replace: true })
                     }
