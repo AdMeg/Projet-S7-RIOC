@@ -129,8 +129,13 @@ export default {
               text: 'Login ou mot de passe incorrect.',
             });
           } else {
-            // Afficher une alerte de succès
-            this.$router.push({path: '/double-authentification', query: { uid: this.formData.uid }, replace: true})
+            console.log(response.data)
+            if (response.data.includes("Connexion ok -> double auth")) {
+              // Afficher une alerte de succès
+              this.$router.push({ path: '/double-authentification', query: { uid: this.formData.uid }, replace: true })
+            } else {
+              this.$router.push({ path: '/authentificator-activation', query: { uid: this.formData.uid, url: response.data }, replace: true })
+            }
           }
           this.response = response.data;
           this.error = null;
