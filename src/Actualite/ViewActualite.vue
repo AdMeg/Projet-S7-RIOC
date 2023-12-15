@@ -58,12 +58,10 @@
 
 <script>
 import AppSidebar from '../components/AppSidebar.vue'
-import ActuCard from '../Actualite/ActuCard.vue'
 export default {
   name: 'ViewActualite',
   components: {
     AppSidebar,
-    ActuCard,
   }
 }
 </script>

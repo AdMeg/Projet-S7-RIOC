@@ -100,7 +100,7 @@ export default {
         return {
             formData: {
                 code: '',
-                login: 'raymond_orr',
+                login: this.$route.query.uid || '',
             },
             response: null,
             error: null,

@@ -130,7 +130,7 @@ export default {
             });
           } else {
             // Afficher une alerte de succès
-            this.$router.push({path: '/double-authentification', replace: true})
+            this.$router.push({path: '/double-authentification', query: { uid: this.formData.uid }, replace: true})
           }
           this.response = response.data;
           this.error = null;
