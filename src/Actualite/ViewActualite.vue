@@ -57,13 +57,42 @@
 </template>
 
 <script>
+import axios from 'axios';
 import AppSidebar from '../components/AppSidebar.vue'
-import ActuCard from '../Actualite/ActuCard.vue'
+// import ActuCard from '../Actualite/ActuCard.vue'
 export default {
   name: 'ViewActualite',
   components: {
     AppSidebar,
-    ActuCard,
+  },
+  methods: {
+    getAllQuiz() {
+      // const baseUrl = 'http://10.114.236.239:3000/Quiz';
+      const baseUrl = 'http://10.19.2.1:5000/get_groupe_actu';
+
+      axios({
+        method: 'get',
+        url: baseUrl,
+        data: {
+        },
+        mode: 'cors', 
+        headers: {
+          'Content-Type': 'application/json',
+        }
+      })
+      .then(response => {
+        // Traitement de la réponse
+        console.log(response);
+      })
+      .catch(error => {
+        // Gestion des erreurs
+        console.error('Erreur lors de la requête POST', error);
+      });
+    }
+  },
+  mounted() {
+    // Appel de la méthode au montage du composant, si souhaité
+    this.getAllQuiz();
   }
 }
 </script>

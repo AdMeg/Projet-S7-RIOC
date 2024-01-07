@@ -36,6 +36,12 @@
             </div>
             <router-link id="qcm" class=" sideBar_label mt-2 mx-3 text-decoration-none text-dark fs-5" to="/qcm">E-Learning</router-link>
           </div>
+          <div class="el d-flex my-3">
+            <div class="left " style="width: 80px;">
+              <i class="fa-solid fa-list-check fs-2 mt-2 mx-3 text-muted"></i>
+            </div>
+            <router-link id="qcmAdmin" class=" sideBar_label mt-2 mx-3 text-decoration-none text-dark fs-5" to="/qcmAdmin">E-Learning Admin</router-link>
+          </div>
 
         </ul>
       </main>
@@ -50,16 +56,29 @@
 </template>
 
 <script>
+// import axios from 'axios';
+
 export default {
   data() {
     return {
-      isSidebarExpanded: false
+      isSidebarExpanded: false,
+      role: null, 
     };
   },
-  name: 'SideBar'
-
+  name: 'SideBar',
+  // mounted() {
+  //   // Appel axios pour obtenir le rôle
+  //   axios.post('URL_DE_VOTRE_API')
+  //     .then(response => {
+  //       this.role = response.data; 
+  //     })
+  //     .catch(error => {
+  //       console.error('Erreur lors de la récupération du rôle', error);
+  //     });
+  // }
 }
 </script>
+
 
 
 <style scoped>
@@ -97,11 +116,11 @@ footer {
 }
 
 
-.sidebar.expanded #annuaire,.sidebar.expanded #qcm,.sidebar.expanded #catalogue  {
+.sidebar.expanded #annuaire,.sidebar.expanded #qcm,.sidebar.expanded #catalogue,.sidebar.expanded #qcmAdmin  {
   opacity: 1;
   transition: 0.3s;
 }
-#annuaire ,#qcm, #catalogue {
+#annuaire ,#qcm, #catalogue, #qcmAdmin {
   opacity :0;
   transition: 0.3s;
 }

@@ -2,6 +2,7 @@ import ViewActualite from './Actualite/ViewActualite.vue';
 import ViewAuthentification from './Authentification/ViewAuthentification.vue';
 import ViewCatalogue from './Catalogue/ViewCatalogue.vue';
 import ViewQCM from './QCM/ViewQCM.vue';
+import ViewQCMAdmin from './QCM/ViewQCMAdmin.vue';
 import ViewAnnuaire from './Annuaire/ViewAnnuaire.vue';
 import DoubleAuthentification from './Authentification/DoubleAuthentification.vue';
 
@@ -17,6 +18,7 @@ const router = createRouter({
     { path: '/double-authentification', component: DoubleAuthentification },
     { path: '/catalogue', component: ViewCatalogue },
     { path: '/qcm', component: ViewQCM },
+    { path: '/qcmAdmin', component: ViewQCMAdmin },
     { path: '/annuaire', component: ViewAnnuaire }
   ]
 });
