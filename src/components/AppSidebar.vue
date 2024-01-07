@@ -49,7 +49,7 @@
 
     <footer class="mt-auto mx-auto mb-3 text-uppercase" style="width: max-content;">
 
-      <router-link class=" btn btn-danger mx-auto fw-bold " to="/logout">Se déconnecter</router-link>
+      <router-link class=" btn btn-danger mx-auto fw-bold " to="/authentification">Se déconnecter</router-link>
     </footer>
 
   </div>
